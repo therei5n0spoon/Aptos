@@ -1,2 +1,0 @@
-# Aptos
-Aptos Testnet
